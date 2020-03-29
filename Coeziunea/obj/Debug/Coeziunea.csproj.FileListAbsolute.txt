@@ -1,0 +1,84 @@
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\bin\Debug\Tabele.mdf
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\bin\Debug\Tabele_log.ldf
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe.config
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\bin\Debug\Coeziunea.pdb
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csprojAssemblyReference.cache
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Coperta.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Login.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Properties.Resources.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.GenerateResource.cache
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.CoreCompileInputs.cache
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.pdb
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ParolaUitata.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.PaginaPrincipala.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.EditTabele.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestSociometric.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestCooperare.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilElev.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.SchimbParola.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilProfesor_Inspector.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.JocXsi0.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileEuropene.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileMilitare.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileSociale.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.CreareMesaj.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Mesaje.resources
+C:\Users\ghior\Desktop\Coeziunea\Coeziunea\obj\Debug\Coeziunea.MesajVizualizat.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\bin\Debug\Tabele.mdf
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\bin\Debug\Tabele_log.ldf
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe.config
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\bin\Debug\Coeziunea.pdb
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csprojAssemblyReference.cache
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Coperta.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.CreareMesaj.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.EditTabele.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileEuropene.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileMilitare.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileSociale.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.JocXsi0.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Login.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Mesaje.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.MesajVizualizat.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.PaginaPrincipala.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ParolaUitata.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilElev.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilProfesor_Inspector.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Properties.Resources.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.SchimbParola.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestCooperare.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestSociometric.resources
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.GenerateResource.cache
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.CoreCompileInputs.cache
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\rezerva1\Coeziunea\Coeziunea\obj\Debug\Coeziunea.pdb
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\bin\Debug\Tabele.mdf
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\bin\Debug\Tabele_log.ldf
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe.config
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\bin\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\bin\Debug\Coeziunea.pdb
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csprojAssemblyReference.cache
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Coperta.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.CreareMesaj.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.EditTabele.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileEuropene.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileMilitare.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.GrupurileSociale.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.JocXsi0.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Login.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Mesaje.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.MesajVizualizat.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.PaginaPrincipala.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ParolaUitata.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilElev.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.ProfilProfesor_Inspector.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.Properties.Resources.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.SchimbParola.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestCooperare.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.TestSociometric.resources
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.GenerateResource.cache
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.csproj.CoreCompileInputs.cache
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.exe
+C:\Users\ghior\Desktop\Proiect Prosoft\Coeziunea\Coeziunea\obj\Debug\Coeziunea.pdb
